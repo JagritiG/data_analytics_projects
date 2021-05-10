@@ -1,0 +1,20 @@
+/venv
+.idea
+docs/ppt
+/backup
+__pycache__
+
+# Compiled python modules.
+*.pyc
+
+
+/.pytest_cache
+sales_analysis/settings/mysqlconfig.py
+
+AAA_sales_analysis
+c2c_fashion_store
+netflix
+olist
+problems
+spam
+wish_ecommerce
